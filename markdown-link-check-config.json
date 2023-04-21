@@ -13,9 +13,6 @@
       "pattern": "./issues"
     },
     {
-      "pattern": "./discussions"
-    },
-    {
       "pattern": "./pulls"
     },
     {
